@@ -1,13 +1,13 @@
 {
   "name": "Zisterne Fuellstand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
-        "md5": "00000000000000000000000000000000",
-        "path": "firmware.ota.bin",
-        "summary": "Basisversion V9 mit GitHub-Pages-Updatefunktion"
+        "md5": "1229901e5762b3464fdb4e8eb10b2cad",
+        "path": "zisterne-1.0.1.ota.bin",
+        "summary": "V10 - erstes Internet-OTA-Update über GitHub Pages"
       }
     }
   ]
