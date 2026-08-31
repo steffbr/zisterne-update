@@ -1,13 +1,13 @@
 {
   "name": "Zisterne Fuellstand",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
-        "md5": "1229901e5762b3464fdb4e8eb10b2cad",
-        "path": "zisterne-1.0.1.ota.bin",
-        "summary": "V10 - erstes Internet-OTA-Update über GitHub Pages"
+        "md5": "bc50f10375dbfdbac1a081e61ecf7844",
+        "path": "zisterne-1.1.0.ota.bin",
+        "summary": "V11 Stability - Literanzeige, Verbrauch heute, 7-Tage-Mittel, Reichweite, Nachfuell-/Regenerkennung, konfigurierbare Tank- und Alarmwerte; ioBroker-kompatibel; Adafruit-Uploads alle 5 Minuten"
       }
     }
   ]
